@@ -1,0 +1,8 @@
+# GIMP gimp-paintbrush-tool options
+
+(brush "Appunti")
+(dynamics "Dynamics Off")
+(gradient "Da pp a sf (RGB)")
+(palette "Default")
+
+# end of gimp-paintbrush-tool options

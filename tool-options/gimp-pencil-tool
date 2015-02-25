@@ -1,0 +1,8 @@
+# GIMP gimp-pencil-tool options
+
+(brush "Appunti")
+(dynamics "Dynamics Off")
+(gradient "Da pp a sf (bordi netti)")
+(palette "Default")
+
+# end of gimp-pencil-tool options
